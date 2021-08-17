@@ -22,7 +22,7 @@ const Notes = () => {
   return (
     <div>
         <header>
-            <h1>Notes to do</h1>
+            <h1>To do</h1>
             <p>I have completed 0/{notes.length} notes</p>
         </header>
       <form>
