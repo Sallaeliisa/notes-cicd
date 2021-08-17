@@ -12,8 +12,5 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Build 🏗️
-        run: npm run build
-
       - name: Test 🚨
         run: npm test
